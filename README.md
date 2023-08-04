@@ -32,7 +32,7 @@ The project aligns with the Google Data Analytics process, which comprises the f
 - **Ask**: Defined relevant questions and objectives to guide the analysis.
 - **Prepare**: Performed data cleaning and structuring for further exploration.
 - **Process**: Executed data transformations, including creating the yearly data table.
-- **Analyze**: Employed SQL and R for advanced analysis, generating insights.
+- **Analyze**: Employed SQL, R, and Tableau for advanced analysis, generating insights and visualizations.
 - **Share**: Compiled key findings into a comprehensive presentation.
 - **Act**: Transformed insights into actionable recommendations.
 
